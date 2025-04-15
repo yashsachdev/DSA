@@ -1,0 +1,15 @@
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.GeneratedMSBuildEditorConfig.editorconfig
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.AssemblyInfoInputs.cache
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.AssemblyInfo.cs
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.csproj.CoreCompileInputs.cache
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.sourcelink.json
+Y:\yashs\DSA\DSA\csharp\src\bin\Debug\net9.0\src.exe
+Y:\yashs\DSA\DSA\csharp\src\bin\Debug\net9.0\src.deps.json
+Y:\yashs\DSA\DSA\csharp\src\bin\Debug\net9.0\src.runtimeconfig.json
+Y:\yashs\DSA\DSA\csharp\src\bin\Debug\net9.0\src.dll
+Y:\yashs\DSA\DSA\csharp\src\bin\Debug\net9.0\src.pdb
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.dll
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\refint\src.dll
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.pdb
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\src.genruntimeconfig.cache
+Y:\yashs\DSA\DSA\csharp\src\obj\Debug\net9.0\ref\src.dll

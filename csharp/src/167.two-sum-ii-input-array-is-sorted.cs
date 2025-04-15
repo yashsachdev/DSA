@@ -68,7 +68,7 @@
  */
 
 // @lc code=start
-public class Solution {
+public class BinarySearch {
     public int[] TwoSum(int[] numbers, int target) {
         int start = 0;
         int end = numbers.Length - 1;

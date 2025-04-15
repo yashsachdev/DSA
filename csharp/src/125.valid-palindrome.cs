@@ -59,7 +59,7 @@
  */
 
 // @lc code=start
-public class Solution {
+public class validPalindrome {
     public bool IsPalindrome(string s) {
         int start,end;
         start = 0;
